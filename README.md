@@ -8,4 +8,9 @@ For Testing the Capsule Network only these files are necessary:
 - data_utils.py
 - eval.py
 
-Version:
+Versions:
+Python == 3.12
+numpy == 2.2.3
+pandas == 2.2.3
+scikit-learn == 1.6.1
+torch == 2.6.0
